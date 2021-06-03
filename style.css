@@ -35,6 +35,7 @@ body{
 	color:var(--dFont);
 	line-height:27px;
 	font-size:18px;
+	width:50ch;
 }
 .smContainer{
 	display:flex;
